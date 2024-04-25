@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "aa1baea80f5693bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "419b0004badc6d5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6953f7c1e650b9bd",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "00. Kanban ✅/data engineering projects.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c985b2a5bf3db1e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "93691814f02167c6",
+        "type": "tabs",
+        "dimension": 80.76923076923077,
+        "children": [
+          {
+            "id": "f045a08a7be3a356",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec24523830ae80cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1b04a830330339a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d8fd58a5e63cd37d",
+        "type": "tabs",
+        "dimension": 19.230769230769234,
+        "children": [
+          {
+            "id": "16cf0dfe1d92f707",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f903af82c606e620",
+    "type": "split",
+    "children": [
+      {
+        "id": "17c210bce577b716",
+        "type": "tabs",
+        "dimension": 64.13461538461539,
+        "children": [
+          {
+            "id": "7470d342b0030d53",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00. Kanban ✅/data engineering projects.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e731e8afc41ea71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00. Kanban ✅/data engineering projects.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4736a9a3f22c3a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c7ab8377879c388",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00. Kanban ✅/data engineering projects.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "415e36bc2ab3efcd",
+        "type": "tabs",
+        "dimension": 35.86538461538461,
+        "children": [
+          {
+            "id": "bd44d79114ba7833",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templates:Insert template": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "f045a08a7be3a356",
+  "lastOpenFiles": [
+    "01. Projects 💼/Database",
+    "03. Resources 📚/01. Productivity/Building_second_brain 🧠/obsidian.md",
+    "00. Kanban ✅/data engineering projects.md",
+    "00. Templates 📑/Default Template.md",
+    "00. Templates 📑/Daily Note Template.md",
+    "03. Resources 📚/01. Productivity/Building_second_brain 🧠/Obsidian 5 plugins.md",
+    "03. Resources 📚/01. Productivity/Building_second_brain 🧠/new file 123.md",
+    "03. Resources 📚/01. Productivity/Building_second_brain 🧠/Obsidian.md",
+    "03. Resources 📚/01. Productivity/Building_second_brain 🧠/second brain.md",
+    "03. Resources 📚/01. Productivity/Building_second_brain 🧠/hdhd.md",
+    "03. Resources 📚/01. Productivity/Building_second_brain 🧠/Untitled 1.md",
+    "sencond brain.md",
+    "03. Resources 📚/01. Productivity/Building_second_brain 🧠/Best Obsidian plugins.md",
+    "02. Area 🏋🏻‍♂️/00. Timestamp 🗓️/2024/April/W17-April.md",
+    "02. Area 🏋🏻‍♂️/00. Timestamp 🗓️/2024/April/W17-Monday.md",
+    "02. Area 🏋🏻‍♂️/00. Timestamp 🗓️/2024/April/W16-Tuesday.md",
+    "02. Area 🏋🏻‍♂️/00. Timestamp 🗓️/2024/April",
+    "02. Area 🏋🏻‍♂️/00. Timestamp 🗓️/2024",
+    "02. Area 🏋🏻‍♂️/00. Timestamp 🗓️/2024/04-April/2024-04-01-Monday.md",
+    "02. Area 🏋🏻‍♂️/00. Timestamp 🗓️/2024/04-April",
+    "00. Templates 📑/Weekly Note template.md",
+    "00. Templates 📑/Monthly Note Template.md",
+    "03. Resources 📚/01. Productivity/Building_second_brain 🧠",
+    "03. Resources 📚/01. Productivity/80.md",
+    "00. Templates 📑",
+    "03. Resources 📚/01. Productivity",
+    "00. Kanban ✅",
+    "02. Area 🏋🏻‍♂️/00. Timestamp 🗓️",
+    "04. Archives 🗄️",
+    "03. Resources 📚",
+    "Welcome.md"
+  ]
+}

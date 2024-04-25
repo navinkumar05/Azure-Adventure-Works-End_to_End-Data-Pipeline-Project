@@ -1,0 +1,33 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "YYYY/MMMM/[W]ww-dddd",
+    "template": "00. Templates 📑/Daily Note Template.md",
+    "folder": "02. Area 🏋🏻‍♂️/00. Timestamp 🗓️",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "YYYY/MMMM/[Weekly-Notes]/[W]ww-MMMM",
+    "template": "00. Templates 📑/Monthly Note Template.md",
+    "folder": "02. Area 🏋🏻‍♂️/00. Timestamp 🗓️",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "YYYY/MMMM",
+    "template": "00. Templates 📑/Monthly Note Template.md",
+    "folder": "02. Area 🏋🏻‍♂️/00. Timestamp 🗓️",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "aa1baea80f5693bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9044dab3339e908",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7acc895580cb3f9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Area 🏋🏻‍♂️/Tasks pending.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "55a511887bd6dfde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/06. End to End pipeline Testing/automate the job.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c985b2a5bf3db1e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "93691814f02167c6",
+        "type": "tabs",
+        "dimension": 75.36407766990291,
+        "children": [
+          {
+            "id": "f045a08a7be3a356",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec24523830ae80cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1b04a830330339a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d8fd58a5e63cd37d",
+        "type": "tabs",
+        "dimension": 24.635922330097088,
+        "children": [
+          {
+            "id": "16cf0dfe1d92f707",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 462.5
+  },
+  "right": {
+    "id": "f903af82c606e620",
+    "type": "split",
+    "children": [
+      {
+        "id": "17c210bce577b716",
+        "type": "tabs",
+        "dimension": 64.13461538461539,
+        "children": [
+          {
+            "id": "7470d342b0030d53",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/06. End to End pipeline Testing/automate the job.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e731e8afc41ea71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/06. End to End pipeline Testing/automate the job.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4736a9a3f22c3a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c7ab8377879c388",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/06. End to End pipeline Testing/automate the job.md"
+              }
+            }
+          },
+          {
+            "id": "77c9c13375d37812",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "415e36bc2ab3efcd",
+        "type": "tabs",
+        "dimension": 35.86538461538461,
+        "children": [
+          {
+            "id": "bd44d79114ba7833",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "55a511887bd6dfde",
+  "lastOpenFiles": [
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/04. Data loading/01. Data Loading Azure synapse.md",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/03. Data Transformation/01. Data Transformation using Data Bricks.md",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/00. Project overview.md",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/03. Data Transformation/03. Data Transformation.md",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/02. Data Ingestion/01. Data Ingestion using ADF.md",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/06. End to End pipeline Testing/automate the job.md",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/06. End to End pipeline Testing/attachments/Pasted image 20240425163647.png",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/06. End to End pipeline Testing/attachments/Pasted image 20240425161811.png",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/06. End to End pipeline Testing/attachments/Pasted image 20240425153200.png",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/06. End to End pipeline Testing/attachments/Pasted image 20240425152740.png",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/06. End to End pipeline Testing/attachments",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/07. Security and governance/01. Security and governance.md",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/07. Security and governance/attachments/Pasted image 20240425145207.png",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/07. Security and governance/attachments",
+    "02. Area 🏋🏻‍♂️/Tasks pending.md",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/07. Security and governance",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/Untitled.md",
+    "01. Projects 💼/Database 🛢️/SQL/01. SQL_Problems/Remove Duplicates or Delete duplicate records.md",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/05. Data Reporting/Power BI.md",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/05. Data Reporting/attachments/Pasted image 20240425072559.png",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/05. Data Reporting/attachments/Pasted image 20240425072405.png",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/05. Data Reporting/attachments/Pasted image 20240425072229.png",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/05. Data Reporting/attachments/Pasted image 20240425071543.png",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/05. Data Reporting/attachments/Pasted image 20240425071419.png",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/05. Data Reporting/attachments",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/04. Data loading/attachments",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/03. Data Transformation/02. Data Transformation using Data Bricks.md",
+    "01. Projects 💼/01. Data Engineering ℹ️/Data_Engineering_Interview/Spark dataframe interview questions.md",
+    "01. Projects 💼/01. Data Engineering ℹ️/Data_Engineering_Interview",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/03. Data Transformation/attachments",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/01. Environment Setup/01. Resource Group, Local server and key vault.md",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/02. Data Ingestion/attachments",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/01. Environment Setup/Untitled.md",
+    "02. Area 🏋🏻‍♂️/00. Timestamp 🗓️/2024/April/W17-Tuesday.md",
+    "01. Projects 💼/Programing ⌨/Shell 🐧/00. shell basics.md",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/01. Environment Setup/attachments",
+    "01. Projects 💼/01. Data Engineering ℹ️/01. Projects/End to End Azure Data Engineering Project/attachments",
+    "01. Projects 💼/Database 🛢️/SQL/00. SQL.md",
+    "01. Projects 💼/Database 🛢️/SQL/01. SQL Roadmap.md",
+    "01. Projects 💼/Database 🛢️/SQL/02. DQL/information_schema.md",
+    "03. Resources 📚/02. PowerToys/File rename.md",
+    "01. Projects 💼/Programing ⌨/Shell 🐧/01. Bash in 100 Seconds.md",
+    "01. Projects 💼/Programing ⌨/Shell 🐧/convert .txt files into .sql file.md",
+    "04. Archives 🗄️/TDH workflow/Work Experience/Mirabuad.md",
+    "04. Archives 🗄️/TDH workflow/Work Experience/societe generale.md",
+    "01. Projects 💼/Database 🛢️/SQL/00. SQL_mindmap.canvas",
+    "04. Archives 🗄️/TDH workflow/TDE workflow.canvas"
+  ]
+}
