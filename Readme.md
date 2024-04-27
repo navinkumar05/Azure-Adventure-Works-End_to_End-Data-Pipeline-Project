@@ -35,6 +35,10 @@ This project aims to build an automated data pipeline to ingest, transform, and 
 
 The data pipeline is scheduled to trigger automatically every day at 6 PM IST.
 
+
+## [CICD Pipeline Doc](CICD_Pipeline.md)
+
+
 ## Report
 
 <img src="Images/Dashboard.png" width=600>
